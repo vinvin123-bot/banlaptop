@@ -7,4 +7,4 @@ Thành viên:
 
 3.Trần Hữu Tú
 
-Chức năng: Trang quản lỹ sản phẩm
+Chức năng: Trang quản lý sản phẩm
