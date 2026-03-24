@@ -7,4 +7,4 @@ Thành viên:
 
 3.Trần Hữu Tú
 
-Chức năng: Trang giỏ hàng
+Chức năng: Trang quản lỹ sản phẩm
